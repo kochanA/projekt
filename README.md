@@ -1,0 +1,2 @@
+# projekt
+projekt końcowy SDA
